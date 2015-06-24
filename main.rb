@@ -12,5 +12,4 @@ end
 # we will iterate over each element in the string
 # array and print each element in a line
 array.each do |element|
-
 end
